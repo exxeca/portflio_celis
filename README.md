@@ -1,13 +1,10 @@
-# celis_ezekiel_practice-scaffold
-This repo is our Homework 2 - Practice Scaffold 1056
+# celis_ezekiel_portfolio
+This repo is for our portfolio
 
-
-# hw3_celis_ezekiel_csscascade-selectors---psuedoselectors
-This repo is for our Homework 3 in 1054 
 
 # Project Name:  
-### - Practice Scaffold 1056
- This repo is our Homework 2 about Responsive Grid
+### - Portfolio - Multimedia Authoring
+ This repo is for our Portfolio
 
 
 ## Installation 
@@ -29,7 +26,7 @@ N/A
 
 ## History
 
-February 06, 2023
+October 20, 2024
 
 ## Credits 
 
